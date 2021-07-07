@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900);
+.App {
+  text-align: center;
+  
+}
+ 
+ 
+
+body{
+  background-color: #282c34;
+  background-image: url("/src/salle-cinema.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+ 
+button.AddButton {
+  margin-bottom: 3rem!important;
+  width: 25%;
+ 
+}
+.stars {
+  color: gold;
+  font-size: 30px;
+}
+.rate-search{
+    color: antiquewhite;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-top: 13px;
+}
+.search-section {
+  margin-top: 3%;
+  
+}
+.search-section input {
+  width: 59%;
+  border: 1px solid lightgray;
+  color: grey;
+  padding-left: 10px;
+  padding: 8px 0 8px 10px;
+}
+img {
+  width: 250px;
+  height: 327px;
+  
+}
+
+.btn-primary {
+  
+  width: 100%;
+}
+
+.navbar {
+
+  
+  background-color: #007bff;
+  border-color: #007bff;
+  width: 100%;
+}
+a.navbar-brand {
+  color: white;
+}
+
+
+  
+  
+
+  .global {
+
+    background-color: #dee2e6;
+    
+    margin-top: 60px;
+    }
